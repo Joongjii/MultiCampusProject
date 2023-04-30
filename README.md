@@ -3,15 +3,15 @@
 
 # MultiCampus Final Project
 안녕하세요 저희는 얼마전 멀티캠퍼스에서 웹개발 과정을 수료한 학생들입니다. 😊 <br>
-수료 하기 전, 저번 [**`세미프로젝트`**](https://github.com/sieunnnn/MultiCampusSemiProject "세미프로젝트") 에 이어 한달간 파이널 프로젝트를 하게 되었습니다.<br>
+수료 하기 전, 저번 [**`세미프로젝트`**] 에 이어 한달간 파이널 프로젝트를 하게 되었습니다.<br>
 프로젝트에 대한 내용을 최대한 상세하게 적고자 노력하였으니, 많은 관심 부탁드립니다. 🙌
 <br>
 <br>
 <br>
 
-## 목차
-#### [`💁‍♀️ 멤버 소개`] &nbsp; [`🧑 파이널 프로젝트 개요`] &nbsp; [`👨‍💻 프로젝트 기획`] &nbsp; [`💻 사용기술 / 도구`] &nbsp; <br>
-#### [`💁‍♂️ 프로젝트 구성 / 시연`] &nbsp; [`🦋 이슈`]
+## 바로가기
+#### [`💁‍♀️ 멤버 소개`](https://github.com/sieunnnn/MultiCampusProject/blob/main/README.md#%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A9%A4%EB%B2%84-%EC%86%8C%EA%B0%9C) &nbsp; [`🧑 파이널 프로젝트 개요`](https://github.com/sieunnnn/MultiCampusProject/blob/main/README.md#%ED%8C%8C%EC%9D%B4%EB%84%90-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B0%9C%EC%9A%94) &nbsp; [`👨‍💻 프로젝트 기획`](https://github.com/sieunnnn/MultiCampusProject/blob/main/README.md#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B8%B0%ED%9A%8D) &nbsp; [`💻 사용기술 / 도구`](https://github.com/sieunnnn/MultiCampusProject/blob/main/README.md#%EC%82%AC%EC%9A%A9%EA%B8%B0%EC%88%A0%EB%8F%84%EA%B5%AC) &nbsp; <br>
+#### [`💁‍♂️ 프로젝트 구성 / 시연`](https://github.com/sieunnnn/MultiCampusProject/blob/main/README.md#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B5%AC%EC%84%B1--%EC%8B%9C%EC%97%B0) &nbsp; [`🦋 이슈`](https://github.com/sieunnnn/MultiCampusProject/blob/main/README.md#%EC%9D%B4%EC%8A%88)
 
 <br>
 <br>
@@ -19,22 +19,23 @@
 ## 팀 프로젝트 멤버 소개
 ✅ 사진은 미모티콘으로 대신합니다.
 <br>
+✅ 미모티콘을 클릭하면 해당 멤버의 깃허브로 이동합니다.
 
 <br>
 
-
+<a href="http://github.com/sieunnnn">
 	<img src="https://user-images.githubusercontent.com/119668620/218918266-537e18dc-3d8d-47ed-9f81-f66b705821c5.png" width="22%" height="22%" "시은 조장의 깃허브 바로가기">
 <a>
 &emsp;
-
+<a href="https://github.com/workbjh">
 	<img src="https://user-images.githubusercontent.com/119668620/218918260-8c98b45d-7511-4014-8638-1d10eba78fc0.png" width="22%" height="22%" "재현 조원의 깃허브 바로가기">
 <a>  
 &emsp;
-
+<a href="https://github.com/Joongjii">
 	<img src="https://user-images.githubusercontent.com/119668620/218946773-e13b4aa2-b306-4a51-b0d8-eaaefde2a3be.png" width="22%" height="22%" "현중 조원의 깃허브 바로가기">
 <a>
 &emsp;
-
+<a href="https://github.com/joonhyung2">
 	<img src="https://user-images.githubusercontent.com/119668620/218948439-f40e7fc6-02d1-4489-979d-d5f5e26675ac.png" width="22%" height="22%" "준형 조원의 깃허브 바로가기">
 <a>
 
@@ -47,9 +48,9 @@
 
 ## 파이널 프로젝트 개요
 > ### 프로젝트 기간
-### *23. 02. 13 - 23. 04. 18*
+### *23. 02. 13 - 23. 04. 12*
 - 기획 / 수업 기간 : 23. 02. 13 - 23. 03. 02
-- 구현 기간 : 23. 03. 03 - 23. 04. 18
+- 구현 기간 : 23. 03. 03 - 23. 04. 12
 
 <br>
 
@@ -224,6 +225,10 @@
 <br>
 <br>
 		
+## 바로가기
+#### [`💁‍♀️ 멤버 소개`](https://github.com/sieunnnn/MultiCampusProject/blob/main/README.md#%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A9%A4%EB%B2%84-%EC%86%8C%EA%B0%9C) &nbsp; [`🧑 파이널 프로젝트 개요`](https://github.com/sieunnnn/MultiCampusProject/blob/main/README.md#%ED%8C%8C%EC%9D%B4%EB%84%90-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B0%9C%EC%9A%94) &nbsp; [`👨‍💻 프로젝트 기획`](https://github.com/sieunnnn/MultiCampusProject/blob/main/README.md#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B8%B0%ED%9A%8D) &nbsp; [`💻 사용기술 / 도구`](https://github.com/sieunnnn/MultiCampusProject/blob/main/README.md#%EC%82%AC%EC%9A%A9%EA%B8%B0%EC%88%A0%EB%8F%84%EA%B5%AC) &nbsp; <br>
+#### [`💁‍♂️ 프로젝트 구성 / 시연`](https://github.com/sieunnnn/MultiCampusProject/blob/main/README.md#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B5%AC%EC%84%B1--%EC%8B%9C%EC%97%B0) &nbsp; [`🦋 이슈`](https://github.com/sieunnnn/MultiCampusProject/blob/main/README.md#%EC%9D%B4%EC%8A%88)
+
 <br>
 <br>
 <br>
