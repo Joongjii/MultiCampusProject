@@ -23,11 +23,11 @@
 
 <br>
 
-<a href="http://github.com/sieunnnn">
+
 	<img src="https://user-images.githubusercontent.com/119668620/218918266-537e18dc-3d8d-47ed-9f81-f66b705821c5.png" width="22%" height="22%" "시은 조장의 깃허브 바로가기">
 <a>
 &emsp;
-<a href="https://github.com/workbjh">
+
 	<img src="https://user-images.githubusercontent.com/119668620/218918260-8c98b45d-7511-4014-8638-1d10eba78fc0.png" width="22%" height="22%" "재현 조원의 깃허브 바로가기">
 <a>  
 &emsp;
@@ -35,7 +35,7 @@
 	<img src="https://user-images.githubusercontent.com/119668620/218946773-e13b4aa2-b306-4a51-b0d8-eaaefde2a3be.png" width="22%" height="22%" "현중 조원의 깃허브 바로가기">
 <a>
 &emsp;
-<a href="https://github.com/joonhyung2">
+
 	<img src="https://user-images.githubusercontent.com/119668620/218948439-f40e7fc6-02d1-4489-979d-d5f5e26675ac.png" width="22%" height="22%" "준형 조원의 깃허브 바로가기">
 <a>
 
@@ -48,9 +48,9 @@
 
 ## 파이널 프로젝트 개요
 > ### 프로젝트 기간
-### *23. 02. 13 - 23. 04. 12*
+### *23. 02. 13 - 23. 04. 18*
 - 기획 / 수업 기간 : 23. 02. 13 - 23. 03. 02
-- 구현 기간 : 23. 03. 03 - 23. 04. 12
+- 구현 기간 : 23. 03. 03 - 23. 04. 18
 
 <br>
 
