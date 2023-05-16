@@ -138,7 +138,7 @@
 	
 #### 프로젝트 관리/도구
 <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"><br>
-### 🔗 *링크 바로가기* &nbsp; [**`노션`**](https://sieun96.notion.site/2-bb44c09796d94d53ab1ee0a463d4ff1d "🔗 노션 바로가기") &nbsp; [**`피그잼`**](https://www.figma.com/file/tAnoNqthCkRc8KnHQIqWBI/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8?node-id=0-1&t=XyFPKO5i8QAbXLZ6-0 "🔗 피그잼 바로가기") &nbsp; [**`피그마`**](https://www.figma.com/file/saEoo8SqVP9GQ2cYNGFm3d/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8?node-id=85-955&t=eDKJCux9fz9fHQRO-0 "🔗 피그마 바로가기") &nbsp; 
+### 🔗 *링크 바로가기* &nbsp; [**`노션`**](https://www.notion.so/2-f75cc6ac39dd4de7a901c0df5bb23814 "🔗 노션 바로가기") &nbsp; [**`피그잼`**](https://www.figma.com/file/tAnoNqthCkRc8KnHQIqWBI/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8?node-id=0-1&t=XyFPKO5i8QAbXLZ6-0 "🔗 피그잼 바로가기") &nbsp; [**`피그마`**](https://www.figma.com/file/saEoo8SqVP9GQ2cYNGFm3d/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8?node-id=85-955&t=eDKJCux9fz9fHQRO-0 "🔗 피그마 바로가기") &nbsp; 
 
 - **`노션`** 에서 프로젝트의 전반적인 일정과 조원들의 작업내용 / 공부내용 / 회고록 등을 볼 수 있습니다. <br>
 - **`피그잼`** 에서 다이어그램을 활용한 프로젝트 기획을 볼 수 있습니다. <br>
