@@ -23,11 +23,11 @@
 
 <br>
 
-<a href="http://github.com/sieunnnn">
+
 	<img src="https://user-images.githubusercontent.com/119668620/218918266-537e18dc-3d8d-47ed-9f81-f66b705821c5.png" width="22%" height="22%" "시은 조장의 깃허브 바로가기">
 <a>
 &emsp;
-<a href="https://github.com/workbjh">
+
 	<img src="https://user-images.githubusercontent.com/119668620/218918260-8c98b45d-7511-4014-8638-1d10eba78fc0.png" width="22%" height="22%" "재현 조원의 깃허브 바로가기">
 <a>  
 &emsp;
@@ -35,7 +35,7 @@
 	<img src="https://user-images.githubusercontent.com/119668620/218946773-e13b4aa2-b306-4a51-b0d8-eaaefde2a3be.png" width="22%" height="22%" "현중 조원의 깃허브 바로가기">
 <a>
 &emsp;
-<a href="https://github.com/joonhyung2">
+
 	<img src="https://user-images.githubusercontent.com/119668620/218948439-f40e7fc6-02d1-4489-979d-d5f5e26675ac.png" width="22%" height="22%" "준형 조원의 깃허브 바로가기">
 <a>
 
@@ -138,7 +138,7 @@
 	
 #### 프로젝트 관리/도구
 <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"><br>
-### 🔗 *링크 바로가기* &nbsp; [**`노션`**](https://sieun96.notion.site/2-bb44c09796d94d53ab1ee0a463d4ff1d "🔗 노션 바로가기") &nbsp; [**`피그잼`**](https://www.figma.com/file/tAnoNqthCkRc8KnHQIqWBI/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8?node-id=0-1&t=XyFPKO5i8QAbXLZ6-0 "🔗 피그잼 바로가기") &nbsp; [**`피그마`**](https://www.figma.com/file/saEoo8SqVP9GQ2cYNGFm3d/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8?node-id=85-955&t=eDKJCux9fz9fHQRO-0 "🔗 피그마 바로가기") &nbsp; 
+### 🔗 *링크 바로가기* &nbsp; [**`노션`**](https://www.notion.so/2-f75cc6ac39dd4de7a901c0df5bb23814 "🔗 노션 바로가기") &nbsp; [**`피그잼`**](https://www.figma.com/file/tAnoNqthCkRc8KnHQIqWBI/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8?node-id=0-1&t=XyFPKO5i8QAbXLZ6-0 "🔗 피그잼 바로가기") &nbsp; [**`피그마`**](https://www.figma.com/file/saEoo8SqVP9GQ2cYNGFm3d/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8?node-id=85-955&t=eDKJCux9fz9fHQRO-0 "🔗 피그마 바로가기") &nbsp; 
 
 - **`노션`** 에서 프로젝트의 전반적인 일정과 조원들의 작업내용 / 공부내용 / 회고록 등을 볼 수 있습니다. <br>
 - **`피그잼`** 에서 다이어그램을 활용한 프로젝트 기획을 볼 수 있습니다. <br>
@@ -226,7 +226,7 @@
 <br>
 		
 ## 바로가기
-#### [`💁‍♀️ 멤버 소개`](https://github.com/sieunnnn/MultiCampusProject/blob/main/README.md#%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A9%A4%EB%B2%84-%EC%86%8C%EA%B0%9C) &nbsp; [`🧑 파이널 프로젝트 개요`](https://github.com/sieunnnn/MultiCampusProject/blob/main/README.md#%ED%8C%8C%EC%9D%B4%EB%84%90-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B0%9C%EC%9A%94) &nbsp; [`👨‍💻 프로젝트 기획`](https://github.com/sieunnnn/MultiCampusProject/blob/main/README.md#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B8%B0%ED%9A%8D) &nbsp; [`💻 사용기술 / 도구`](https://github.com/sieunnnn/MultiCampusProject/blob/main/README.md#%EC%82%AC%EC%9A%A9%EA%B8%B0%EC%88%A0%EB%8F%84%EA%B5%AC) &nbsp; <br>
+ <br>
 #### [`💁‍♂️ 프로젝트 구성 / 시연`](https://github.com/sieunnnn/MultiCampusProject/blob/main/README.md#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B5%AC%EC%84%B1--%EC%8B%9C%EC%97%B0) &nbsp; [`🦋 이슈`](https://github.com/sieunnnn/MultiCampusProject/blob/main/README.md#%EC%9D%B4%EC%8A%88)
 
 <br>
